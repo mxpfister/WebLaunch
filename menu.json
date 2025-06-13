@@ -2,7 +2,7 @@
 	"items": [
 		{
 			"name": "WebLaunch",
-			"action": "bin/start.sh"
+			"action": "sh bin/start.sh"
 		}
 	]
 }
